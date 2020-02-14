@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_d_text">Screen D</string>
+    <string name="title_home">A</string>
+    <string name="title_dashboard">B</string>
+    <string name="title_notifications">C</string>
+</resources>
